@@ -139,9 +139,9 @@ class classifier(nn.Module):
 model = classifier(embedding_dim, num_hidden_nodes, num_output_nodes, num_layers, bidirectional=False, dropout=dropout)
 
 ```
-<br/>
+
 ![image](https://user-images.githubusercontent.com/58447982/175812504-4d96ca78-f8e4-4403-baa2-0561edde1b24.png)
-<br/>
+
 
 **Conclusion**
 
